@@ -1,0 +1,25 @@
+body{
+     font-family: 'Nunito Sans', sans-serif;
+}
+.btn:focus{
+     box-shadow: none;
+}
+.card .collapse{
+     border-bottom: 1px solid rgba(0,0,0,.125);
+     padding: 20px;
+     padding-top: 10px;
+     position: relative;
+}
+.card .collapse .card-body{
+     display: flex;
+}
+.card .card-body img{
+     height: 280px; 
+}
+.card p{
+     margin-bottom: 12px;
+}
+.card .card-body img{
+     height: 290px;
+
+}
